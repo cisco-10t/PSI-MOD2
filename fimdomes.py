@@ -11,5 +11,3 @@ elif mes==2:
 elif mes in (4,6,9,11):
     faltam=30-dias
 print(f"faltam {faltam} dias para o fim do mes")
-
-    
